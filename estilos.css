@@ -1,0 +1,16 @@
+.card1{
+    
+    margin: 10px;
+    padding: 20px;
+}
+
+.card-group{
+
+    gap: 2em;
+    margin: 2em;
+
+}
+.carousel{
+    margin-top: 2em;
+    
+}
